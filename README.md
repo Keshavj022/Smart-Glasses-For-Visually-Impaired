@@ -2,7 +2,7 @@
 
 An innovative assistive technology solution designed to enhance independence, safety, and quality of life for visually impaired individuals through advanced computer vision, sensor integration, and real-time feedback systems.
 
-![Smart Glasses Prototype](images/smart_glasses_prototype.) 
+![Smart Glasses Prototype](images/smart_glasses_prototype.png) 
 ## Overview
 This project implements wearable smart glasses that combine Raspberry Pi 5 and Arduino Uno to create a comprehensive assistive device. Using multiple sensors, AI-powered computer vision, and intuitive feedback mechanisms, the system helps visually impaired users navigate their environment, recognize objects and people, and receive contextual information about their surroundings.
 
